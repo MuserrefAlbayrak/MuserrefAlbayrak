@@ -1,1 +1,1 @@
-<h2 align="center"> <img src="https://github.com/MuserrefAlbayrak/MuserrefAlbayrak/blob/main/kitty.gif?raw=true"> Hi, I'm Muserref <img src="https://github.com/MuserrefAlbayrak/MuserrefAlbayrak/blob/main/kitty.gif?raw=true"> </h2>
+<h2 align="center"> <img src="https://github.com/MuserrefAlbayrak/MuserrefAlbayrak/blob/main/kitty.gif?raw=true" width="30"> Hi, I'm Muserref <img src="https://github.com/MuserrefAlbayrak/MuserrefAlbayrak/blob/main/kitty.gif?raw=true" width="30"> </h2>
